@@ -1,0 +1,21 @@
+nav {
+	background-color: #174c5b;
+	margin-top: 50px;
+	list-style: none;
+	text-align: justify;
+	font-family: "cubano-1", "cubano-2", Helvetica, sans-serif;
+}
+
+nav li {
+	display: inline;
+}
+
+nav a {
+	display: inline;
+	padding: 10px;
+	color: white;
+}
+
+nav a:hover {
+	text-decoration: none;
+}
