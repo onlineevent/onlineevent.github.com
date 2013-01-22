@@ -25,3 +25,13 @@ h5 {
 	text-align: center;
 	font-family: "cubano-1", "cubano-2", sans-serif;
 }
+
+::selection {
+	background-color: #174c5b;
+	color: #fff;
+}
+
+::-moz-selection {
+	background-color: #174c5b;
+	color: #fff;
+}
