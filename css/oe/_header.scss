@@ -1,12 +1,11 @@
+header {
+	margin-top: 0px;
+}
+
 #logo {
 	display:block;
 	height:128px;
 	width:256px;
-	margin-left:auto;
-	margin-right:auto;
-}
-
-header {
-	bacground-image: url('img/header_bg.png');
-	background-repeat: repeat-x;
+	margin: auto;
+	padding-bottom: 55px;
 }
