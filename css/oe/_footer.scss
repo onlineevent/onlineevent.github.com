@@ -1,9 +1,11 @@
 footer #theteam {
-	display: inline;
+	display: block;
 	float: left;
+	margin: auto;
 }
 
 footer .logos {
+	margin: auto;
 	display: inline;
 	float: right;
 }
@@ -18,4 +20,5 @@ footer {
 	color: #8d8d8d;
 	background-image: url('img/footer_bg.png');
 	height: 250px;
+	margin: auto;
 }
